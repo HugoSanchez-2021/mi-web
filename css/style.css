@@ -8632,12 +8632,13 @@ h1, h2, h3, h4, h5,
   width: 100%;
   z-index: 0;
   position: relative; }
+
   .ftco-about .img-about .img {
     display: block;
     width: 100%;
     position: relative;
     z-index: 1; }
-
+  
 .ftco-about ul.about-info {
   display: inline-block;
   padding: 0;
@@ -8921,7 +8922,7 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     background: #3e64ff;
-    opacity: .7; }
+    opacity: .4; }
   .ftco-hireme h2 {
     color: #fff;
     font-size: 40px;
